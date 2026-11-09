@@ -1,4 +1,4 @@
-# American Express Default Prediction: Advanced Business Analytics (Assignment 4)
+# American Express Default Prediction: Advanced Business Analytics (Assignment 4) 
 
 A credit-default prediction pipeline built on the Kaggle [American Express – Default Prediction](https://www.kaggle.com/competitions/amex-default-prediction) dataset. The notebook (`Advance_Assignment_4_Business_Analytics.ipynb`) covers data sampling, cleaning, feature selection, class balancing, model training (neural network, gradient-boosted ensemble, random forest) and model explainability (LIME and SHAP).
 
